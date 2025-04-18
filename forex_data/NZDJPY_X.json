@@ -1,0 +1,239 @@
+{
+  "symbol": "NZDJPY=X",
+  "history": [
+    {
+      "timestamp": "2025-04-18T14:32:55.826Z",
+      "price": 84.423,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.48600006,
+      "changePercent": -0.57239103
+    },
+    {
+      "timestamp": "2025-04-18T14:33:53.953Z",
+      "price": 84.417,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.49199677,
+      "changePercent": -0.57943326
+    },
+    {
+      "timestamp": "2025-04-18T14:34:16.891Z",
+      "price": 84.416,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.49299622,
+      "changePercent": -0.5806582
+    },
+    {
+      "timestamp": "2025-04-18T14:36:49.662Z",
+      "price": 84.408,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.50099945,
+      "changePercent": -0.5900498
+    },
+    {
+      "timestamp": "2025-04-18T14:37:12.610Z",
+      "price": 84.415,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.49399567,
+      "changePercent": -0.58179426
+    },
+    {
+      "timestamp": "2025-04-18T14:41:08.827Z",
+      "price": 84.418,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.4909973,
+      "changePercent": -0.5782358
+    },
+    {
+      "timestamp": "2025-04-18T14:41:58.858Z",
+      "price": 84.409,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5,
+      "changePercent": -0.5888796
+    },
+    {
+      "timestamp": "2025-04-18T14:42:29.467Z",
+      "price": 84.406,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.50299835,
+      "changePercent": -0.59232724
+    },
+    {
+      "timestamp": "2025-04-18T14:52:01.388Z",
+      "price": 84.382,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5269928,
+      "changePercent": -0.620656
+    },
+    {
+      "timestamp": "2025-04-18T14:52:38.682Z",
+      "price": 84.376,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.53299713,
+      "changePercent": -0.62776446
+    },
+    {
+      "timestamp": "2025-04-18T14:54:20.288Z",
+      "price": 84.38,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5289993,
+      "changePercent": -0.6232834
+    },
+    {
+      "timestamp": "2025-04-18T14:54:45.966Z",
+      "price": 84.372,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.53699493,
+      "changePercent": -0.6323763
+    },
+    {
+      "timestamp": "2025-04-18T14:55:27.898Z",
+      "price": 84.373,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5359955,
+      "changePercent": -0.6311993
+    },
+    {
+      "timestamp": "2025-04-18T14:55:44.632Z",
+      "price": 84.381,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5279999,
+      "changePercent": -0.62197393
+    },
+    {
+      "timestamp": "2025-04-18T14:56:38.490Z",
+      "price": 84.366,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.54299927,
+      "changePercent": -0.63935673
+    },
+    {
+      "timestamp": "2025-04-18T14:57:19.890Z",
+      "price": 84.381,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5279999,
+      "changePercent": -0.6221425
+    },
+    {
+      "timestamp": "2025-04-18T14:58:14.224Z",
+      "price": 84.383,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.52599335,
+      "changePercent": -0.61953735
+    },
+    {
+      "timestamp": "2025-04-18T14:58:33.156Z",
+      "price": 84.388,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5209961,
+      "changePercent": -0.6139623
+    },
+    {
+      "timestamp": "2025-04-18T15:00:06.721Z",
+      "price": 84.356,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5529938,
+      "changePercent": -0.6512858
+    },
+    {
+      "timestamp": "2025-04-18T15:00:27.870Z",
+      "price": 84.353,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.55599976,
+      "changePercent": -0.6548184
+    },
+    {
+      "timestamp": "2025-04-18T15:00:53.914Z",
+      "price": 84.355,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5539932,
+      "changePercent": -0.6524784
+    },
+    {
+      "timestamp": "2025-04-18T15:01:20.735Z",
+      "price": 84.375,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5339966,
+      "changePercent": -0.6289046
+    },
+    {
+      "timestamp": "2025-04-18T15:01:41.721Z",
+      "price": 84.33,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.57899475,
+      "changePercent": -0.6819004
+    },
+    {
+      "timestamp": "2025-04-18T15:02:02.765Z",
+      "price": 84.386,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.522995,
+      "changePercent": -0.6159985
+    },
+    {
+      "timestamp": "2025-04-18T15:02:34.820Z",
+      "price": 84.355,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.5539932,
+      "changePercent": -0.6524553
+    },
+    {
+      "timestamp": "2025-04-18T15:03:08.208Z",
+      "price": 84.386,
+      "previousClose": 84.909,
+      "dayHigh": 85.077,
+      "dayLow": 84.292,
+      "change": -0.522995,
+      "changePercent": -0.6160057
+    }
+  ]
+}

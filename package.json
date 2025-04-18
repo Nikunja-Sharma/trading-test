@@ -1,0 +1,11 @@
+{
+  "name": "forex-data",
+  "version": "1.0.0",
+  "description": "Live forex data using Yahoo Finance",
+  "main": "main.js",
+  "dependencies": {
+    "yahoo-finance2": "^2.9.1",
+    "dotenv": "^16.3.1"
+  },
+  "type": "module"
+} 

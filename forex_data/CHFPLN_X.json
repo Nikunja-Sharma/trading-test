@@ -1,0 +1,266 @@
+{
+  "symbol": "CHFPLN=X",
+  "history": [
+    {
+      "timestamp": "2025-04-18T14:32:42.283Z",
+      "price": 4.5853,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.002600193,
+      "changePercent": -0.056730654
+    },
+    {
+      "timestamp": "2025-04-18T14:33:10.961Z",
+      "price": 4.5853,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.002600193,
+      "changePercent": -0.056730654
+    },
+    {
+      "timestamp": "2025-04-18T14:33:11.399Z",
+      "price": 4.5853,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.002600193,
+      "changePercent": -0.056730654
+    },
+    {
+      "timestamp": "2025-04-18T14:33:14.183Z",
+      "price": 4.5853,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.002600193,
+      "changePercent": -0.056730654
+    },
+    {
+      "timestamp": "2025-04-18T14:33:43.286Z",
+      "price": 4.5828,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0051002502,
+      "changePercent": -0.11110687
+    },
+    {
+      "timestamp": "2025-04-18T14:34:07.186Z",
+      "price": 4.5828,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0051002502,
+      "changePercent": -0.11110687
+    },
+    {
+      "timestamp": "2025-04-18T14:36:36.311Z",
+      "price": 4.5828,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0051002502,
+      "changePercent": -0.11116742
+    },
+    {
+      "timestamp": "2025-04-18T14:37:01.133Z",
+      "price": 4.5828,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0051002502,
+      "changePercent": -0.11116742
+    },
+    {
+      "timestamp": "2025-04-18T14:40:59.052Z",
+      "price": 4.5825,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.005400181,
+      "changePercent": -0.11769715
+    },
+    {
+      "timestamp": "2025-04-18T14:41:46.539Z",
+      "price": 4.5825,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.005400181,
+      "changePercent": -0.11769715
+    },
+    {
+      "timestamp": "2025-04-18T14:42:16.619Z",
+      "price": 4.5825,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.005400181,
+      "changePercent": -0.11769715
+    },
+    {
+      "timestamp": "2025-04-18T14:51:45.574Z",
+      "price": 4.584,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0039000511,
+      "changePercent": -0.085007325
+    },
+    {
+      "timestamp": "2025-04-18T14:52:20.822Z",
+      "price": 4.584,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0039000511,
+      "changePercent": -0.085007325
+    },
+    {
+      "timestamp": "2025-04-18T14:54:10.807Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:54:34.314Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:55:19.638Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:55:36.312Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:56:23.478Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:56:51.053Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:57:59.430Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:58:24.902Z",
+      "price": 4.587,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.00090026855,
+      "changePercent": -0.01963551
+    },
+    {
+      "timestamp": "2025-04-18T14:59:55.235Z",
+      "price": 4.5794,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.008500099,
+      "changePercent": -0.1853125
+    },
+    {
+      "timestamp": "2025-04-18T15:00:18.338Z",
+      "price": 4.5794,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.008500099,
+      "changePercent": -0.1853125
+    },
+    {
+      "timestamp": "2025-04-18T15:00:40.727Z",
+      "price": 4.5794,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.008500099,
+      "changePercent": -0.1852721
+    },
+    {
+      "timestamp": "2025-04-18T15:01:08.717Z",
+      "price": 4.5811,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0068001747,
+      "changePercent": -0.1482747
+    },
+    {
+      "timestamp": "2025-04-18T15:01:31.891Z",
+      "price": 4.581,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0069003105,
+      "changePercent": -0.15039909
+    },
+    {
+      "timestamp": "2025-04-18T15:01:53.178Z",
+      "price": 4.5819,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.006000042,
+      "changePercent": -0.13080536
+    },
+    {
+      "timestamp": "2025-04-18T15:02:18.927Z",
+      "price": 4.5819,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.006000042,
+      "changePercent": -0.13080536
+    },
+    {
+      "timestamp": "2025-04-18T15:02:50.138Z",
+      "price": 4.5811,
+      "previousClose": 4.5879,
+      "dayHigh": 4.6011,
+      "dayLow": 4.5733,
+      "change": -0.0068001747,
+      "changePercent": -0.14820684
+    }
+  ]
+}
