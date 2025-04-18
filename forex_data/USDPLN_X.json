@@ -225,6 +225,15 @@
       "dayLow": 3.74283,
       "change": -0.009340048,
       "changePercent": -0.24853045
+    },
+    {
+      "timestamp": "2025-04-18T15:03:11.058Z",
+      "price": 3.74987,
+      "previousClose": 3.7582,
+      "dayHigh": 3.7672,
+      "dayLow": 3.74283,
+      "change": -0.008329868,
+      "changePercent": -0.22162925
     }
   ]
 }
