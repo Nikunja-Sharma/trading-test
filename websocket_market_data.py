@@ -76,6 +76,6 @@ class BinanceWebSocket:
 
 if __name__ == "__main__":
     # Example usage with popular crypto pairs
-    symbols = ["btcusdt", "ethusdt", "bnbusdt"]  # symbols must be lowercase
+    symbols = ["btcusdt"]  # symbols must be lowercase
     ws_client = BinanceWebSocket(symbols)
     ws_client.start() 
